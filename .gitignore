@@ -1,0 +1,76 @@
+venv
+# Byte-compiled / optimizado
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribuciones y construcciones
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+wheels/
+*.manifest
+*.spec
+
+# Archivos de PyInstaller
+*.exe
+*.dll
+*.so
+*.dylib
+*.pyc
+*.pyo
+*.pyd
+*.lib
+*.bak
+*.log
+*.zip
+
+# Archivos de testing
+.coverage
+.tox/
+nose2.xml
+pytest_cache/
+htmlcov/
+.pytest_cache/
+.cache/
+
+# Configuraciones de PyCharm
+.idea/
+*.iml
+
+# Archivos de VSCode
+.vscode/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
+
+# Configuración local
+*.env
+*.env.*
+.env
+
+# IDEs y editores variados
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Logs y bases de datos temporales
+*.log
+*.sqlite3
+
+# Exportaciones de paquetes
+pip-wheel-metadata/
