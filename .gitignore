@@ -74,3 +74,6 @@ Thumbs.db
 
 # Exportaciones de paquetes
 pip-wheel-metadata/
+
+# Imagenes de prueba
+pictures/
